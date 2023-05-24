@@ -10,12 +10,12 @@ I came across the dataset online (it was a csv file). After downloading it, i op
 
 It had just one table with 21,969 rows and 18 columns.
 
-## Data transformation
+## Data Transformation
 Two new columns were created using the Microsoft Excel funtion "vlookup" to group _Age and Title_ in the dataset.
 
 ![](age_mapping.JPG) ![](role_mapping.JPG)
 
 While in Power BI, measures were created for the _Total Employees, Average Employee Rating, Percentage of both Male and Female count._ 
 
-## Data analysis and visualization
+## Data Analysis and Visualization
 ![](dashboard.JPG)
