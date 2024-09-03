@@ -20,7 +20,7 @@ While in Power BI, measures were created for the _Total Employees, Average Emplo
 ## Data Analysis and Visualization
 ![](Images/dashboard.JPG)
 
-## Potential recommendations and insights
+## Potential Recommendations and Insights
 1. *Gender Diversity Initiatives*:
    - *Observation*: The workforce is predominantly male (71%) with females making up 29%.
    - *Recommendation*: Implement strategies to promote gender diversity and balance, especially in departments with low female representation. Consider targeted recruitment and inclusion programs to attract and retain more female employees.
