@@ -2,11 +2,11 @@
 ![](Images/intro.JPG)
 
 ## Introduction
-In this HR analysis, I explored the analysis of employee headcount data to gain insights into the size, structure, and changes within the organization's workforce. By analyzing employee headcount data, organizations can assess their workforce composition, identify trends, and make informed decisions regarding talent management, resource allocation, and organizational planning.
+I explored the analysis of employee headcount data to gain insights into the size, structure, and changes within the organization's workforce. By analyzing employee headcount data, organizations can assess their workforce composition, identify trends, and make informed decisions regarding talent management, resource allocation, and organizational planning.
 
 ## Data Sourcing
 ![](Images/dataset.JPG)
-I came across the dataset online (it was a csv file). After downloading it, i opened the data in Microsoft Excel for a quick tour before importing it to Power BI for transformation, analysis and visualization.
+I came across the dataset online (it was a csv file). After downloading it, I opened the data in Microsoft Excel for a quick tour before importing it to Power BI for transformation, analysis and visualization.
 
 It had just one table with 21,969 rows and 19 columns.
 
@@ -19,8 +19,6 @@ While in Power BI, measures were created for the _Total Employees, Average Emplo
 
 ## Data Analysis and Visualization
 ![](Images/dashboard.JPG)
-
-[Link here](https://app.powerbi.com/groups/me/reports/cd482d7b-efc7-432c-8b00-885bd199867c/ReportSection606d919c289f6868d995?experience=power-bi&ownerId=72f988bf-86f1-41af-91ab-2d7cd011db47&referrer=embed.appsource)
 
 ## Summary
 Through my analysis, I gained a clear understanding of the workforce composition. The distribution of employees across departments and job categories to identify areas of concentration was examined. This analysis provided insights into the organization's structure and resource allocation.
