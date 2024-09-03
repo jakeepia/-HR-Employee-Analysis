@@ -20,15 +20,6 @@ While in Power BI, measures were created for the _Total Employees, Average Emplo
 ## Data Analysis and Visualization
 ![](Images/dashboard.JPG)
 
-## Summary
-Through my analysis, I gained a clear understanding of the workforce composition. The distribution of employees across departments and job categories to identify areas of concentration was examined. This analysis provided insights into the organization's structure and resource allocation.
-
-Furthermore, I analyzed employee headcount trends over a specific period to identify patterns and changes in the workforce. By comparing headcount data across different timeframes, I assessed workforce growth, identified periods of expansion or downsizing, and examined the impact on the organization's overall workforce.
-
-Additionally, I examined the distribution of employment status, including full-time, and part-time employees to understand the organization's workforce composition and employment arrangements.
-
-Based on my analysis, I derived key findings and recommendations. These included optimizing workforce planning by aligning headcount with departmental needs, identifying areas for talent acquisition or development, and assessing the impact of workforce changes on organizational goals.
-
 ## Potential recommendations and insights
 1. *Gender Diversity Initiatives*:
    - *Observation*: The workforce is predominantly male (71%) with females making up 29%.
@@ -63,4 +54,13 @@ Based on my analysis, I derived key findings and recommendations. These included
    - *Recommendation*: Tailor employee programs and policies to reflect the unique needs and challenges of each location. Consider regional talent management strategies that align with the business goals and local market conditions.
 
 These recommendations, derived from the dashboard insights, can guide HR strategies to improve overall employee engagement, retention, and productivity.
+
+## Summary
+Through my analysis, I gained a clear understanding of the workforce composition. The distribution of employees across departments and job categories to identify areas of concentration was examined. This analysis provided insights into the organization's structure and resource allocation.
+
+Furthermore, I analyzed employee headcount trends over a specific period to identify patterns and changes in the workforce. By comparing headcount data across different timeframes, I assessed workforce growth, identified periods of expansion or downsizing, and examined the impact on the organization's overall workforce.
+
+Additionally, I examined the distribution of employment status, including full-time, and part-time employees to understand the organization's workforce composition and employment arrangements.
+
+Based on my analysis, I derived key findings and recommendations. These included optimizing workforce planning by aligning headcount with departmental needs, identifying areas for talent acquisition or development, and assessing the impact of workforce changes on organizational goals.
 
