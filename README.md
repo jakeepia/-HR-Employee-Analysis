@@ -1,5 +1,5 @@
 # Employee Analysis
-![](Images/intro.JPG)
+![](intro1.JPG)
 
 ## Introduction
 I explored the analysis of employee headcount data to gain insights into the size, structure, and changes within the organization's workforce. By analyzing employee headcount data, organizations can assess their workforce composition, identify trends, and make informed decisions regarding talent management, resource allocation, and organizational planning.
