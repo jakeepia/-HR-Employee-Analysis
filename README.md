@@ -4,7 +4,7 @@
 ## Introduction
 I explored the analysis of employee headcount data to gain insights into the size, structure, and changes within the organization's workforce. By analyzing employee headcount data, organizations can assess their workforce composition, identify trends, and make informed decisions regarding talent management, resource allocation, and organizational planning.
 
-## Data Sourcing
+## Data Sourcing and Tools
 ![](Images/dataset.JPG)
 I came across the dataset online (it was a CSV file). After downloading it, I opened the data in **Excel** for a quick tour before importing it to **Power BI** for transformation, analysis and visualization.
 
