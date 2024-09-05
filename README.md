@@ -6,12 +6,12 @@ I explored the analysis of employee headcount data to gain insights into the siz
 
 ## Data Sourcing
 ![](Images/dataset.JPG)
-I came across the dataset online (it was a csv file). After downloading it, I opened the data in Microsoft Excel for a quick tour before importing it to Power BI for transformation, analysis and visualization.
+I came across the dataset online (it was a CSV file). After downloading it, I opened the data in Excel for a quick tour before importing it to Power BI for transformation, analysis and visualization.
 
-It had just one table with 21,969 rows and 19 columns.
+The dataset consisted of a single table with 21,969 rows and 19 columns.
 
 ## Data Transformation
-An additional column was created using the Microsoft Excel funtion "vlookup" to group _Age_ in the dataset.
+An additional column was created using the Excel funtion "VLOOKUP" to group _Age_ in the dataset.
 
 ![](Images/age_mapping.JPG) 
 
