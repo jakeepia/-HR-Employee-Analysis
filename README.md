@@ -6,7 +6,7 @@ I explored the analysis of employee headcount data to gain insights into the siz
 
 ## Data Sourcing
 ![](Images/dataset.JPG)
-I came across the dataset online (it was a CSV file). After downloading it, I opened the data in Excel for a quick tour before importing it to Power BI for transformation, analysis and visualization.
+I came across the dataset online (it was a CSV file). After downloading it, I opened the data in **Excel** for a quick tour before importing it to **Power BI** for transformation, analysis and visualization.
 
 The dataset consisted of a single table with 21,969 rows and 19 columns.
 
