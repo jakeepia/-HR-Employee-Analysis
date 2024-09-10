@@ -11,7 +11,7 @@ I came across the dataset online (it was a CSV file). After downloading it, I op
 The dataset consisted of a single table with 21,969 rows and 19 columns.
 
 ## Data Transformation
-An additional column was created using the Excel funtion "IFS" to group **Age** in the dataset.
+An additional column was created using the Excel funtion _"IFS"_ to group **Age** in the dataset.
 
 ![](Images/age_mapping.JPG) 
 
